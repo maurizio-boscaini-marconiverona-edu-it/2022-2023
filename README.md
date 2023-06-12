@@ -1,6 +1,8 @@
 # Introduction to Linux & C
 
-## G. Marconi, Verona, 12 June 2023
+> G. Marconi, Verona
+
+## Lab01 - 12 June 2023
 
 ## Table of contents
 

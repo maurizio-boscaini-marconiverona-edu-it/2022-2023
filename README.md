@@ -9,6 +9,8 @@
 3. Markdown
 4. Git (Github)
 
+# GNU/Linux
+
 ## Introduction to O.S.
 
 ### Onion skin model of an O.S.
@@ -20,3 +22,15 @@
 [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie>)
 
 Linux distributions
+
+[Download Ubuntu Desktop](https://ubuntu.com/download/desktop)
+
+# C
+1. hello_world.c
+2. add1.c
+
+
+
+
+
+[The International Obfuscated C Code Contest](https://www.ioccc.org/)

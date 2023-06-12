@@ -28,8 +28,8 @@
 [Vim Cheat Sheet](https://vim.rtorr.com/)
 
 # C
-
-[The International Obfuscated C Code Contest](https://www.ioccc.org/)
+- [The International Obfuscated C Code Contest](https://www.ioccc.org/)
+- [Write in C, song](https://www.youtube.com/watch?v=1S1fISh-pag)
 
 ## Lab01 Programs
 1. hello_world.c

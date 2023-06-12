@@ -11,9 +11,7 @@
 
 # GNU/Linux
 
-## Introduction to O.S.
-
-### Onion skin model of an O.S.
+## Onion skin model of an O.S.
 
 -   kernel
 -   tools
@@ -21,16 +19,21 @@
 
 [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie>)
 
-Linux distributions
-
+## Linux distributions
 [Download Ubuntu Desktop](https://ubuntu.com/download/desktop)
 
+## VIM
+[Vim Cheat Sheet](https://vim.rtorr.com/)
+
 # C
-1. hello_world.c
-2. add1.c
-
-
-
-
 
 [The International Obfuscated C Code Contest](https://www.ioccc.org/)
+
+## Lab01 Programs
+1. hello_world.c
+2. add1.c
+3. even1.c
+4. numbers1.c
+5. numbers2.c
+6. numbers3.c
+7. primes1.c

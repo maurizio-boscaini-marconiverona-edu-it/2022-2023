@@ -39,3 +39,6 @@
 5. numbers2.c
 6. numbers3.c
 7. primes1.c
+
+## References
+- <https://www.javatpoint.com/linux-tutorial>
